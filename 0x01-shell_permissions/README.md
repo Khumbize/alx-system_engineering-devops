@@ -11,3 +11,4 @@ Write a script that sets the mode of the file hello
 Write a script that sets the mode of the file hello the same as olleh’s mode
 Create a script that adds execute permission to all subdirectories
 Create a script that creates a directory
+Write a script that changes the group owner to school for the file hello
