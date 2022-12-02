@@ -14,3 +14,4 @@ Create a script that creates a directory
 Write a script that changes the group owner to school for the file hello
 Write a script that changes the owner
 Write a script that changes the owner and the group owner
+Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
