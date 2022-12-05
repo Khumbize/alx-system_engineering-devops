@@ -15,3 +15,4 @@ Create a script that takes a list of words
 Display lines containing the pattern “root” from the file
 Display the number of lines that contain the pattern
 Display lines containing the pattern “root” and 3 lines
+Display all the lines in the file /etc/passwd that do not contain
