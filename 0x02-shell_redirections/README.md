@@ -18,3 +18,4 @@ Display lines containing the pattern “root” and 3 lines
 Display all the lines in the file /etc/passwd that do not contain
 Display all lines of the file /etc/ssh/sshconfig
 Replace all characters A and c from input to Z and e
+Create a script that removes all letters c and C from input
